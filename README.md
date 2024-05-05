@@ -6,7 +6,7 @@
 - 🌱 I’m currently expanding my knowledge on developing a **Web-Based Software**
 - 💬 Ask me about **PHP**
 - 🔭 I'm a Human.
-- 🌱 Currently focusing on making projects @schools.
+- 🌱 Currently focusing on making projects @school.
 - 📫 Reach me at **[cautor3@gmail.com](mailto:cautor3@gmail.com)**
 
 
