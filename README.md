@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Se-ki&label=Profile%20views&color=0e75b6&style=flat" alt="Se-ki" /> </p>
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently expanding my knowledge on developing a **Web-Based Software**
 - 💬 Ask me about **PHP**
 - 🔭 I'm a Human.
 - 🌱 Currently focusing on making projects @schools.
