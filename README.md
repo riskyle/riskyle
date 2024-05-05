@@ -48,7 +48,7 @@ All other tools/frameworks/languages are for team-work/collaboration with other 
         <img title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40">
         <img title="Express" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40">
         <img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40">
-        <img title="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="40" height="40">
+        <img title="Django" src="https://www.djangoproject.com/favicon.ico" width="40" height="40">
         <img title="Flask" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40">
       </td>
     </tr>
@@ -59,26 +59,6 @@ All other tools/frameworks/languages are for team-work/collaboration with other 
       <td>
         <img title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40">
         <img title="MariaDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" width="40" height="40">
-      </td>
-    </tr>
-   <tr>
-      <td>
-        Testing
-      </td>
-      <td>
-        <img title="Jest" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="40" height="40">
-      </td>
-    </tr>
-   <tr>
-      <td>
-        Others
-      </td>
-      <td>
-        <img title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40">
-        <img title="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"> 
-        <img title="Figma" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40">
-        <img title="Socket.IO" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="40" height="40">
-        <img title="Jira" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" width="40" height="40">
       </td>
     </tr>
 </table>
