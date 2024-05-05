@@ -49,7 +49,7 @@ All other tools/frameworks/languages are for team-work/collaboration with other 
         <img title="Express" src="http://expressjs.com/images/favicon.png" width="40" height="40">
         <img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40">
         <img title="Django" src="https://www.djangoproject.com/favicon.ico" width="40" height="40">
-        <img title="Flask" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40">
+        <img title="Flask" src="https://icons8.com/icon/MHcMYTljfKOr/flask" width="40" height="40">
       </td>
     </tr>
      <tr>
