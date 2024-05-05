@@ -61,6 +61,14 @@ All other tools/frameworks/languages are for team-work/collaboration with other 
         <img title="MariaDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" width="40" height="40">
       </td>
     </tr>
+    <tr>
+      <td>
+        Others
+      </td>
+      <td>
+        <img title="Xampp" src="https://www.apachefriends.org//images/favicon-18f9bd42.png" width="40" height="40">
+      </td>
+    </tr>
 </table>
 <p align="left">
 
