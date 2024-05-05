@@ -46,7 +46,7 @@ All other tools/frameworks/languages are for team-work/collaboration with other 
         <img title="PHP" src="https://www.php.net/favicon.ico" width="40" height="40">
         <img title="Laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40">
         <img title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40">
-        <img title="Express" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40">
+        <img title="Express" src="http://expressjs.com/images/favicon.png" width="40" height="40">
         <img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40">
         <img title="Django" src="https://www.djangoproject.com/favicon.ico" width="40" height="40">
         <img title="Flask" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40">
