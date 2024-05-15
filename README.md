@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Christian Kyle Autor</h1>
-<h3 align="center">A Passionate Backend Developer from Philippines 🇵🇭</h3>
+<h1 align="center">Hi 👋, I'm Christian Kyle Autor
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239333F7&vCenter=true&lines=A+Passionate+Blockchain+Developer;Scabality+|+ZKP+|+Rust+|+FHE+|+Cryptography+|+ZKML;)](https://git.io/typing-svg)
+</h1>
+<!-- <h3 align="center">A Passionate Backend Developer from Philippines 🇵🇭</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Se-ki&label=Profile%20views&color=0e75b6&style=flat" alt="Se-ki" /> </p>
 
