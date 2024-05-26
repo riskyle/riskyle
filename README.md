@@ -3,7 +3,7 @@
  <h2 align="center">Hi👋🏻, Its me Christian Kyle</h2>
  <p align="center">~ <i>A Passionate Backend Developer from Philippines 🇵🇭</i> ~</p>
 </p>
-<img align="center" src="https://skillicons.dev/icons?i=php,laravel,js,nextjs,express,nodejs,python,django,git,github&theme=dark"/>
+<img align="center" style="position: relative; left: 30px" src="https://skillicons.dev/icons?i=php,laravel,js,nextjs,express,nodejs,python,django,git,github&theme=dark"/>
 <p> <img src="https://komarev.com/ghpvc/?username=riskyle&style=for-the-badge&color=green"/>
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Friskyle.is-a.dev%2Fapi%2Frrizz&query=%24.rizz&style=for-the-badge&logo=php&label=Random%20PHP%20Rizz&color=%23CE422B"/> 
 </p>
