@@ -1,17 +1,17 @@
 <p align="center">
- <img width="100px" src="https://raw.githubusercontent.com/riskyle/riskyle/main/jian-as-a-dog.png" align="center" alt="GitHub Readme Stats" style="border-radius: 50%; display: block; margin: auto;" />
+ <img width="100px" src="https://raw.githubusercontent.com/riskyle/riskyle/v1/jian-as-a-dog.png" align="center" alt="GitHub Readme Stats" style="border-radius: 50%; display: block; margin: auto;" />
  <h2 align="center">Hi👋🏻, Its me Christian Kyle</h2>
- <p align="center">~ <i>Backend Passion</i> ~</p>
+ <p align="center">~ <i>A Passionate Backend Developer from Philippines 🇵🇭</i> ~</p>
 </p>
 <img align="center" src="https://skillicons.dev/icons?i=php,laravel,js,nextjs,express,nodejs,python,django,git,github&theme=dark"/>
 <p> <img src="https://komarev.com/ghpvc/?username=riskyle&style=for-the-badge&color=green"/>
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Friskyle.is-a.dev%2Fapi%2Frrizz&query=%24.rizz&style=for-the-badge&logo=php&label=Random%20PHP%20Rizz&color=%23CE422B"/> 
 </p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&color=AAD100&height=30&random=false&width=435&lines=Welcome+to+my+github+profile!;Programming+is+my+passion.;I+love+coffee.;I+use+neovim+BTW.;I+love+my+mom."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&color=AAD100&height=30&random=false&width=435&lines=Welcome+to+my+github+profile!;Programming+is+my+passion.;I+love+to+sip+coffee+while+coding."/>
 
 ### u fine?
 
-> I'm still learning.
+> I’m currently learning.
 
 ### 📈 Stats
 
@@ -24,7 +24,6 @@
 ### 🔝 Most used languages
 
 &emsp;&emsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riskyle&layout=compact&hide=java,blade,css,html,scss&theme=merko"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=riskyle&theme=merko&layout=compact&langs_count=6&custom_title=Time%20Well%20Spent"/>
 
 ### 📈 Productivity Stats
 
