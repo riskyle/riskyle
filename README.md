@@ -1,82 +1,32 @@
-<h1>
-    Hi 👋, I'm Christian Kyle Autor </br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=A+Passionate+Backend+Developer+;from+Philippines+%F0%9F%87%B5%F0%9F%87%AD" alt="Typing SVG" /></a>
-</h1>
-  
-<!-- <h3 align="center">A Passionate Backend Developer from Philippines 🇵🇭</h3> -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Se-ki&label=Profile%20views&color=0e75b6&style=flat" alt="Se-ki" /> </p>
-
-- 🌱 I’m currently expanding my knowledge on developing a **Web-Based Software**
-- 🤖 I want to learn **AI**
-- 💬 Ask me about **PHP**
-- 🔭 I'm a Human.
-- 🌱 Currently focusing on making projects @school.
-- 📫 Reach me at **[cautor3@gmail.com](mailto:cautor3@gmail.com)**
-
-
-<br>
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="mailto:cautor3"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="mahmudun_nabi_kajal" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/christian-kyle-autor-8a25a7260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmudun-nabi-kajal" height="30" width="40" /></a>
-<a href="https://www.facebook.com/Riskyle14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmudunnabikajal" height="30" width="40" /></a>
-<a href="https://www.instagram.com/riskyle_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahmudun_nabi_kajal" height="30" width="40" /></a>
+<p align="center">
+ <img width="100px" src="https://raw.githubusercontent.com/riskyle/riskyle/main/jian-as-a-dog.png" align="center" alt="GitHub Readme Stats" style="border-radius: 50%; display: block; margin: auto;" />
+ <h2 align="center">Hi👋🏻, Its me Christian Kyle</h2>
+ <p align="center">~ <i>Backend Passion</i> ~</p>
 </p>
-<br>
-<h2 align="left">Languages and Tools:</h2>
+<img align="center" src="https://skillicons.dev/icons?i=php,laravel,js,nextjs,express,nodejs,python,django,git,github&theme=dark"/>
+<p> <img src="https://komarev.com/ghpvc/?username=riskyle&style=for-the-badge&color=green"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Friskyle.is-a.dev%2Fapi%2Frrizz&query=%24.rizz&style=for-the-badge&logo=php&label=Random%20PHP%20Rizz&color=%23CE422B"/> 
+</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&color=AAD100&height=30&random=false&width=435&lines=Welcome+to+my+github+profile!;Programming+is+my+passion.;I+love+coffee.;I+use+neovim+BTW.;I+love+my+mom."/>
 
-My primary focus is only back-end development.<br>
-All other tools/frameworks/languages are for team-work/collaboration with other developers. So don't get confused.
+### u fine?
 
-<table>
-    <tr>
-      <td>
-        Frontend
-      </td>
-      <td>
-        <img title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40">
-        <img title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40">
-        <img title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40">
-        <img title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40">
-        <img title="JQuery" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="40" height="40">
-        <img title="NextJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40">
-      </td>
-    </tr>
-   <tr>
-      <td>
-        Backend
-      </td>
-      <td>
-        <img title="PHP" src="https://www.php.net/favicon.ico" width="40" height="40">
-        <img title="Laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40">
-        <img title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40">
-        <img title="Express" src="http://expressjs.com/images/favicon.png" width="40" height="40">
-        <img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40">
-        <img title="Django" src="https://www.djangoproject.com/favicon.ico" width="40" height="40">
-        <img title="Flask" src="https://flask.palletsprojects.com/en/3.0.x/_static/shortcut-icon.png" width="40" height="40">
-      </td>
-    </tr>
-     <tr>
-      <td>
-        Database
-      </td>
-      <td>
-        <img title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40">
-        <img title="MariaDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" width="40" height="40">
-      </td>
-    </tr>
-    <tr>
-      <td>
-        Others
-      </td>
-      <td>
-        <img title="Xampp" src="https://www.apachefriends.org//images/favicon-18f9bd42.png" width="40" height="40">
-      </td>
-    </tr>
-</table>
-<p align="left">
+> I'm still learning.
 
+### 📈 Stats
 
+<p align="center">
+ &emsp;
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=riskyle&show_icons=true&theme=merko&count_private=true&hide_border=true"/>
+ <img width="48%" src="https://streak-stats.demolab.com/?user=riskyle&theme=merko&hide_border=true"/>
 </p>
 
+### 🔝 Most used languages
+
+&emsp;&emsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riskyle&layout=compact&hide=java,blade,css,html,scss&theme=merko"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=riskyle&theme=merko&layout=compact&langs_count=6&custom_title=Time%20Well%20Spent"/>
+
+### 📈 Productivity Stats
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riskyle&theme=merko"  display=block width=100% height=auto  alt="1" >
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=riskyle&area=true&theme=merko&hide_border=true" display=block width=100% height=auto alt="3">
