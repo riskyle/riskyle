@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://raw.githubusercontent.com/riskyle/riskyle/v1/jian-as-a-dog.png" align="center" alt="GitHub Readme Stats" style="border-radius: 50%; display: block; margin: auto;" />
+ <img width="100px" style="border-radius: 100%; display: block; margin: auto;" src="https://avatars.githubusercontent.com/u/111234084?v=4" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Hi👋🏻, Its me Christian Kyle</h2>
  <p align="center">~ <i>A Passionate Backend Developer from Philippines 🇵🇭</i> ~</p>
 </p>
