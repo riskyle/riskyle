@@ -9,17 +9,17 @@
 </p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&color=AAD100&height=30&random=false&width=435&lines=Welcome+to+my+github+profile!;Programming+is+my+passion.;I+love+to+sip+coffee+while+coding."/>
 
-### u fine?
+### newbie
 
 > I’m currently learning.
 
-### 📈 Stats
+<!-- ###📈 Stats 
 
-<p align="center">
- &emsp;
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=riskyle&show_icons=true&theme=merko&count_private=true&hide_border=true"/>
- <img width="48%" src="https://streak-stats.demolab.com/?user=riskyle&theme=merko&hide_border=true"/>
-</p>
+ <p align="center">
+&emsp;
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=riskyle&show_icons=true&theme=merko&count_private=true&hide_border=true"/>
+<img width="48%" src="https://streak-stats.demolab.com/?user=riskyle&theme=merko&hide_border=true"/>
+</p> 
 
 ### 🔝 Most used languages
 
@@ -29,3 +29,4 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riskyle&theme=merko"  display=block width=100% height=auto  alt="1" >
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=riskyle&area=true&theme=merko&hide_border=true" display=block width=100% height=auto alt="3">
+-->
