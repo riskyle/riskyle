@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" style="border-radius: 100%; display: block; margin: auto;" src="https://avatars.githubusercontent.com/u/111234084?v=4" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Hi👋🏻, Its me Christian Kyle</h2>
- <p align="center">~ <i>A Software Developer Student 🇵🇭</i> ~</p>
+ <p align="center">~ <i>A Software Engineer 🇵🇭</i> ~</p>
 </p>
 <img align="center" style="position: relative; left: 30px" src="https://skillicons.dev/icons?i=php,laravel,js,react,express,nodejs,python,django,git,github&theme=dark"/>
 <p> <img src="https://komarev.com/ghpvc/?username=riskyle&style=for-the-badge&color=green"/>
