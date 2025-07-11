@@ -5,7 +5,7 @@
 </p>
 <img align="center" style="position: relative; left: 30px" src="https://skillicons.dev/icons?i=php,laravel,js,react,express,nodejs,python,django,git,github&theme=dark"/>
 <p> <img src="https://komarev.com/ghpvc/?username=riskyle&style=for-the-badge&color=green"/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Friskyle.is-a.dev%2Fapi%2Frrizz&query=%24.rizz&style=for-the-badge&logo=php&label=Random%20PHP%20Rizz&color=%23CE422B"/> 
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.jsonbin.io/v3/b/6870afc24e2901599cffb05a/latest&query=$.record.rizz&label=Random%20PHP%20Rizz&logo=php&style=for-the-badge&color=%23CE422B"/>
 </p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&color=AAD100&height=30&random=false&width=435&lines=Welcome+to+my+github+profile!;Programming+is+my+passion.;I+love+to+sip+coffee+while+coding."/>
 
@@ -13,7 +13,8 @@
 
 > I’m currently learning.
 
-<!-- ###📈 Stats 
+<!--
+ ###📈 Stats 
 
  <p align="center">
 &emsp;
@@ -29,4 +30,4 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riskyle&theme=merko"  display=block width=100% height=auto  alt="1" >
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=riskyle&area=true&theme=merko&hide_border=true" display=block width=100% height=auto alt="3">
--->
+
