@@ -3,7 +3,7 @@
  <h2 align="center">Hi👋🏻, Its me Christian Kyle</h2>
  <p align="center">~ <i>A Software Engineer 🇵🇭</i> ~</p>
 </p>
-<img align="center" style="position: relative; left: 30px" src="https://skillicons.dev/icons?i=php,laravel,js,react,express,nodejs,python,django,git,github&theme=dark"/>
+<img align="center" style="position: relative; left: 30px" src="https://skillicons.dev/icons?i=java,php,laravel,js,react,express,nodejs,python,django,git,github&theme=dark"/>
 <p> <img src="https://komarev.com/ghpvc/?username=riskyle&style=for-the-badge&color=green"/>
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.jsonbin.io/v3/b/6870afc24e2901599cffb05a/latest&query=$.record.rizz&label=Random%20PHP%20Rizz&logo=php&style=for-the-badge&color=%23CE422B"/>
 </p>
