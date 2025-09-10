@@ -16,7 +16,7 @@
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,laravel,postgresql,mysql,supabase,firebase,js,mongodb,express,react,nodejs,python,django,git,github&theme=dark&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=java,php,laravel,postgresql,mysql,supabase,firebase,js,mongodb,express,react,nodejs,python,django,git,github,docker&theme=dark&perline=8"/>
 </div>
 
 ---
