@@ -32,7 +32,7 @@
 
 ## 🌱 Currently Learning
 
-> **Newbie Status:** I'm currently on my learning journey, exploring new technologies and improving my skills every day.
+> **Mid-level Status:** I'm continuously enjoying my journey, exploring new technologies and improving my skills every day.
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Learning%20%26%20Growing-brightgreen?style=for-the-badge&logo=bookstack&logoColor=white"/>
