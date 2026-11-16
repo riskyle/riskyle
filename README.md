@@ -24,7 +24,7 @@
 
 ```python
 class ChristianKyle:
-    role       = "Software Engineer @ eComia"
+    role       = "Full-Stack Software Engineer"
     based_in   = "Cebu, Philippines 🇵🇭"
     focus      = ["E-commerce platforms", "Performance optimization",
                   "Marketplace integrations", "Maintenance & bug hunting"]
@@ -62,6 +62,7 @@ class ChristianKyle:
 
 ---
 
+<!-- Featured projects: hidden for now, to be updated later
 ## 🚀 Featured projects
 
 | Project | What it is | Stack |
@@ -74,6 +75,7 @@ class ChristianKyle:
 | [**portfolio-v3**](https://github.com/riskyle/portfolio-v3) | My personal portfolio, upgraded | Next.js · TypeScript |
 
 ---
+-->
 
 ## 📊 GitHub stats
 
@@ -90,7 +92,7 @@ class ChristianKyle:
 ## 🌱 Currently
 
 - 📚 **Learning:** Go for backend services, and event-driven patterns for high-volume order/feed processing
-- 🔭 **Working on:** e-commerce integrations and performance work at [eComia](https://www.ecomia.com)
+- 🔭 **Working on:** e-commerce integrations and performance optimization
 - 💬 **Ask me about:** PHP/Laravel, Next.js, Docker dev environments, marketplace APIs, MySQL tuning
 - 🤝 **Looking to collaborate on:** open-source dev tooling, starter templates, and e-commerce utilities
 
