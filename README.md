@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="./jian-as-a-dog.png" width="140" alt="Christian Kyle avatar" />
+  <img src="./shanks.webp" width="140" alt="Christian Kyle avatar" />
 </p>
 
 <p align="center">
