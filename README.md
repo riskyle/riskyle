@@ -1,6 +1,6 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:E63946&height=200&section=header&text=Christian%20Kyle&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20E-commerce%20%E2%80%A2%20Performance&descAlignY=58&descSize=18" alt="Christian Kyle banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:E63946&height=200&section=header&text=Christian%20Kyle&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20E-commerce%20%E2%80%A2%20Performance&descAlignY=58&descSize=18" alt="Christian Kyle banner" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ## 👋 About me
 
-I'm **Christian Kyle**, a full-stack software engineer from Cebu, Philippines 🇵🇭. I build and maintain e-commerce web applications — from storefronts and product feeds to marketplace integrations — with a focus on speed, reliability, and clean, maintainable code.
+I'm **Christian Kyle**, a software engineer from Cebu, Philippines 🇵🇭. I build and maintain e-commerce web applications — from storefronts and product feeds to marketplace integrations — with a focus on speed, reliability, and clean, maintainable code.
 
 - 🛒 **Production e-commerce apps:** storefronts, product feeds, and order pipelines
 - ⚡ **Performance tuning:** query optimization, caching, and legacy code cleanup
