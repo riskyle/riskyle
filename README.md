@@ -18,8 +18,6 @@
   <a href="https://github.com/riskyle?tab=followers"><img src="https://img.shields.io/github/followers/riskyle?label=Followers&style=flat-square&color=8B0000" alt="Followers" /></a>
 </p>
 
----
-
 ## 👋 About me
 
 I'm **Christian Kyle**, a full-stack software engineer from Cebu, Philippines 🇵🇭. I build and maintain e-commerce web applications — from storefronts and product feeds to marketplace integrations — with a focus on speed, reliability, and clean, maintainable code.
@@ -29,8 +27,6 @@ I'm **Christian Kyle**, a full-stack software engineer from Cebu, Philippines �
 - 🔌 **Integrations:** Amazon SP-API, Google Merchant / Retail APIs, AWS, GCP, and Firebase
 - 🐳 **Reproducible setups:** Dockerized dev environments and starter templates
 - 🤝 **Open to:** new opportunities, collaborations, and good technical conversations
-
----
 
 ## 🛠️ Tech stack
 
@@ -48,8 +44,6 @@ I'm **Christian Kyle**, a full-stack software engineer from Cebu, Philippines �
   <b>Databases, cloud & tooling</b><br/>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,aws,gcp,docker,nginx,linux,git&theme=dark" alt="Databases and tooling" />
 </p>
-
----
 
 <!-- Featured projects: hidden for now, to be updated later
 ## 🚀 Featured projects
@@ -72,12 +66,6 @@ I'm **Christian Kyle**, a full-stack software engineer from Cebu, Philippines �
   <img src="https://streak-stats.demolab.com?user=riskyle&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riskyle&theme=redical&hide_border=true&area=true" alt="Contribution graph" width="100%" />
-</p>
-
----
-
 ## 🌱 Currently
 
 - 📚 **Learning:** Go for backend services, and event-driven patterns for high-volume order/feed processing
@@ -85,12 +73,10 @@ I'm **Christian Kyle**, a full-stack software engineer from Cebu, Philippines �
 - 💬 **Ask me about:** PHP/Laravel, Next.js, Docker dev environments, marketplace APIs, MySQL tuning
 - 🤝 **Looking to collaborate on:** open-source dev tooling, starter templates, and e-commerce utilities
 
----
-
 ## 📫 Let's connect
 
 <p align="center">
-  <a href="https://github.com/riskyle"><img src="https://img.shields.io/badge/GitHub-riskyle-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://x.com/riskyle"><img src="https://img.shields.io/badge/X-%40riskyle-000000?style=for-the-badge&logo=x" alt="X (Twitter)" /></a>
   <!-- Optional: uncomment and fill in the links you want public
   <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-Visit-E63946?style=for-the-badge&logo=vercel" alt="Portfolio" /></a>
