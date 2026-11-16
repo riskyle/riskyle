@@ -22,24 +22,13 @@
 
 ## 👋 About me
 
-```python
-class ChristianKyle:
-    role       = "Full-Stack Software Engineer"
-    based_in   = "Cebu, Philippines 🇵🇭"
-    focus      = ["E-commerce platforms", "Performance optimization",
-                  "Marketplace integrations", "Maintenance & bug hunting"]
-    learning   = ["Go (Golang)", "Event-driven architecture"]
-    fun_fact   = "I treat every slow query like a personal challenge."
+I'm **Christian Kyle**, a full-stack software engineer from Cebu, Philippines 🇵🇭. I build and maintain e-commerce web applications — from storefronts and product feeds to marketplace integrations — with a focus on speed, reliability, and clean, maintainable code.
 
-    def say_hi(self) -> str:
-        return "Thanks for dropping by — let's build something together!"
-```
-
-- 🛒 I build and maintain **production e-commerce web apps** — storefronts, product feeds, order pipelines.
-- ⚡ I enjoy **making things faster**: query tuning, caching, and cleaning up legacy code.
-- 🔌 I work with **Amazon SP-API**, **Google Merchant / Retail APIs**, and cloud services on **AWS**, **GCP**, and **Firebase**.
-- 🐳 I like reproducible dev setups — most of my templates ship with **Docker** out of the box.
-- 🤝 Open to **collaborations**, open-source contributions, and good technical conversations.
+- 🛒 **Production e-commerce apps:** storefronts, product feeds, and order pipelines
+- ⚡ **Performance tuning:** query optimization, caching, and legacy code cleanup
+- 🔌 **Integrations:** Amazon SP-API, Google Merchant / Retail APIs, AWS, GCP, and Firebase
+- 🐳 **Reproducible setups:** Dockerized dev environments and starter templates
+- 🤝 **Open to:** new opportunities, collaborations, and good technical conversations
 
 ---
 
